@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign 73832CB3BE2B1EA07FE28EFF38B43E7217D211D8 --entitlements /Users/gobelmo/code/DX212/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-ios/ios-arm64/Entitlements.xcent /Users/gobelmo/code/DX212/SQLiteDemo/SQLiteDemo/bin/Debug/net8.0-ios/ios-arm64/SQLiteDemo.app

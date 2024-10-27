@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/gobelmo/code/DX212/SQLiteDemo/SQLiteDemo/bin/Debug/net8.0-ios/iossimulator-x64/SQLiteDemo.app/libSystem.IO.Compression.Native.dylib
